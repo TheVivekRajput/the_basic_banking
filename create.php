@@ -78,7 +78,7 @@
             <a href="mailto:1905910@kiit.ac.in" onmouseover="this.style.color='aqua'" onmouseout="this.style.color='red'">Send Suggestions Here<i class="fab fa-mail fa-2x"></i></a>
             </p>
           <div class="symbol">
-                 <a href="https://github.com/tanzil7786" onmouseover="this.style.color='blue'" onmouseout="this.style.color='green'" ><i class="fab fa-github fa-2x"></i></a>
+                 <a href="https://github.com/TheVivekRajput/the_basic_banking" onmouseover="this.style.color='blue'" onmouseout="this.style.color='green'" ><i class="fab fa-github fa-2x"></i></a>
                   <a href="https://www.linkedin.com/in/vivek-kumar-5828431b3/" onmouseover="this.style.color='blue'" onmouseout="this.style.color='blue'"><i class="fab fa-linkedin fa-2x"></i></a>
 </div>
 </footer>
